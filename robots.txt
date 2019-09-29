@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haicaeshay.runlevel0.dk/sitemap.xml
